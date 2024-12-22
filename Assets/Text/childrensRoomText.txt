@@ -1,0 +1,6 @@
+[When entering a room]
+Sister: "We have to get the house ready. He should be here soon.
+Are you scared? I'm not."
+
+[When picking up items]
+You could probably hurt something with that… Wanna try?

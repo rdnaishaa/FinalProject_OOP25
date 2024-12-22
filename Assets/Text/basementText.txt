@@ -1,0 +1,8 @@
+[When entering a room]
+Sister: "Playing hide and seek down here used to be fun.
+Though, you were bitten by a rat that one time and your hand got all red and oozy. 
+It was gross."
+
+[When picking up items]
+Are you sure you can swing that? 
+Why don’t you let me try?

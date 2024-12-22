@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 8a6b5ce96b21968469de914c8abf1854
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 165373286628319211
+    second: ChildrensBedroom
+  - first:
+      213: -7648012430335319412
+    second: ParentsBedroom
+  - first:
+      213: 6859186386216287314
+    second: Player_placeholder
+  - first:
+      213: 2907899027355159604
+    second: Bathroom
+  - first:
+      213: 6159535742252835776
+    second: Hallway
+  - first:
+      213: -3404329787003826228
+    second: Bathtub
+  - first:
+      213: -1001640069560872544
+    second: Table
+  - first:
+      213: -7418582051225644535
+    second: Basement
+  - first:
+      213: -7472794862456083373
+    second: Kitchen
+  - first:
+      213: 7088775802892661715
+    second: Fridge
+  - first:
+      213: 5551202721799329819
+    second: Sister_placeholder
+  - first:
+      213: 3279677229860977651
+    second: picture_broken
+  - first:
+      213: -4712586633241780315
+    second: picture_normal
+  - first:
+      213: -1528485433762725511
+    second: teddy_normal
+  - first:
+      213: -9125724705527432125
+    second: teddy_torn
+  - first:
+      213: -3322372718149536879
+    second: door_boardedup
+  - first:
+      213: 7039094588665631670
+    second: Axe
+  - first:
+      213: 5073936973241692828
+    second: Shotgun
+  - first:
+      213: -3962632555123594662
+    second: Key
+  - first:
+      213: 7270706284840363348
+    second: Slingshot
+  - first:
+      213: 2827652582312845999
+    second: Door
+  - first:
+      213: -3083404001779134402
+    second: Door_Sideways
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChildrensBedroom
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 303
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd1d4c0268b4200800000000000000
+      internalID: 165373286628319211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParentsBedroom
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 303
+        width: 178
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82671c273dccd590800000000000000
+      internalID: -7648012430335319412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_placeholder
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 423
+        width: 16
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfd9e3da9b03f50800000000000000
+      internalID: 6859186386216287314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 102
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c453832ceea5820800000000000000
+      internalID: 2907899027355159604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hallway
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 170
+        width: 334
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c36d4a7f111b7550800000000000000
+      internalID: 6159535742252835776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathtub
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 238
+        width: 52
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0b5b781461c0d0800000000000000
+      internalID: -3404329787003826228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 175
+        width: 108
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1d605e9a57912f0800000000000000
+      internalID: -1001640069560872544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basement
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 244
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9025b930ee6eb0990800000000000000
+      internalID: -7418582051225644535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitchen
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 244
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ce0f74aac4b4890800000000000000
+      internalID: -7472794862456083373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fridge
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 104
+        width: 34
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d33dc7e804606260800000000000000
+      internalID: 7088775802892661715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sister_placeholder
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 423
+        width: 16
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d705c675d90d40800000000000000
+      internalID: 5551202721799329819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 42
+        width: 24
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa229f4ca07dd3720800000000000000
+      internalID: 2827652582312845999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Door_Sideways
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 35
+        width: 6
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30dfee956c8535d0800000000000000
+      internalID: -3083404001779134402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picture_broken
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 307
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbfcc76011c38d20800000000000000
+      internalID: 3279677229860977651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: picture_normal
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 307
+        width: 15
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53333336, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af9e58ec67899eb0800000000000000
+      internalID: -4712586633241780315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teddy_normal
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 314
+        width: 12
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971c634a89ab9cae0800000000000000
+      internalID: -1528485433762725511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teddy_torn
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 311
+        width: 24
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cf7010bb9ea5180800000000000000
+      internalID: -9125724705527432125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: door_boardedup
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 249
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1937f339d9f84e1d0800000000000000
+      internalID: -3322372718149536879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Basement: -7418582051225644535
+      Bathroom: 2907899027355159604
+      Bathtub: -3404329787003826228
+      ChildrensBedroom: 165373286628319211
+      Door: 2827652582312845999
+      Door_Sideways: -3083404001779134402
+      Fridge: 7088775802892661715
+      Hallway: 6159535742252835776
+      Kitchen: -7472794862456083373
+      ParentsBedroom: -7648012430335319412
+      Player_placeholder: 6859186386216287314
+      Sister_placeholder: 5551202721799329819
+      Table: -1001640069560872544
+      door_boardedup: -3322372718149536879
+      picture_broken: 3279677229860977651
+      picture_normal: -4712586633241780315
+      teddy_normal: -1528485433762725511
+      teddy_torn: -9125724705527432125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

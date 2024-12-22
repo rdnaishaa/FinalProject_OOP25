@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 08fc1f845d9d86c4bbb4ee7c7d3e59de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4727152265074838238
+    second: backpack
+  - first:
+      213: -6128468090401984811
+    second: plunger
+  - first:
+      213: 4175065310831592861
+    second: key
+  - first:
+      213: -889372929520013586
+    second: axe
+  - first:
+      213: 7813506556951106354
+    second: beartrap_closed
+  - first:
+      213: 5581773966291736342
+    second: beartrap_open
+  - first:
+      213: -7704574362260087525
+    second: beartrap_displayed
+  - first:
+      213: 6181949157113167808
+    second: gun
+  - first:
+      213: 4100847725929655446
+    second: bullet
+  - first:
+      213: 8331088448985437184
+    second: bowlingball
+  - first:
+      213: 5293872798614382699
+    second: wasd
+  - first:
+      213: -1935226080116935734
+    second: selector
+  - first:
+      213: -1478468898875215192
+    second: ICON_key
+  - first:
+      213: 6747845878337087552
+    second: ICON_bowlingball
+  - first:
+      213: 420720114789815176
+    second: ICON_axe
+  - first:
+      213: 5642108297774737694
+    second: ICON_plunger
+  - first:
+      213: 4597237917407285784
+    second: ICON_beartrap
+  - first:
+      213: 8200309233594426530
+    second: ICON_gun
+  - first:
+      213: -8437384966788738912
+    second: empty_item
+  - first:
+      213: 676250766267581333
+    second: Spacebar
+  - first:
+      213: 3694094099739252491
+    second: spacetouse
+  - first:
+      213: -7051652948092538662
+    second: clockbg
+  - first:
+      213: -6996205736383764033
+    second: locked
+  - first:
+      213: 2941522307349431816
+    second: unlocked
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: backpack
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 61
+        width: 118
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f7097f08c56eb0800000000000000
+      internalID: -4727152265074838238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plunger
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 30
+        width: 9
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee546edbe43faa0800000000000000
+      internalID: -6128468090401984811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: key
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 7
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d954c2e97cfc0f930800000000000000
+      internalID: 4175065310831592861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: axe
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 35
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee6c1f580058a3f0800000000000000
+      internalID: -889372929520013586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beartrap_closed
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 23
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.1875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2339149d0d62f6c60800000000000000
+      internalID: 7813506556951106354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beartrap_open
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617975d49d1767d40800000000000000
+      internalID: 5581773966291736342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beartrap_displayed
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 19
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dd7e7207ad31590800000000000000
+      internalID: -7704574362260087525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gun
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 45
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf71494102bac550800000000000000
+      internalID: 6181949157113167808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 49
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c610e874329e830800000000000000
+      internalID: 4100847725929655446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bowlingball
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.44444445, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004132aedc8fd9370800000000000000
+      internalID: 8331088448985437184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wasd
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 71
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68638f134d977940800000000000000
+      internalID: 5293872798614382699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: selector
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3fe862222b425e0800000000000000
+      internalID: -1935226080116935734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_key
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27417ae5c6b7be0800000000000000
+      internalID: -1478468898875215192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_bowlingball
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048ad51231a25ad50800000000000000
+      internalID: 6747845878337087552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_axe
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88398ef17b2b6d500800000000000000
+      internalID: 420720114789815176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_plunger
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19a5298a9bcc4e40800000000000000
+      internalID: 5642108297774737694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_beartrap
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8129407578baccf30800000000000000
+      internalID: 4597237917407285784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ICON_gun
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 48
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a460c40dc95dc170800000000000000
+      internalID: 8200309233594426530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: empty_item
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0165d631368ea80800000000000000
+      internalID: -8437384966788738912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spacebar
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593077e2d76826900800000000000000
+      internalID: 676250766267581333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacetouse
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 4
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0713d5f20f044330800000000000000
+      internalID: 3694094099739252491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clockbg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0bb95410f732e90800000000000000
+      internalID: -7051652948092538662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ab4343fb78ee90800000000000000
+      internalID: -6996205736383764033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlocked
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806437424f262d820800000000000000
+      internalID: 2941522307349431816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ICON_axe: 420720114789815176
+      ICON_beartrap: 4597237917407285784
+      ICON_bowlingball: 6747845878337087552
+      ICON_gun: 8200309233594426530
+      ICON_key: -1478468898875215192
+      ICON_plunger: 5642108297774737694
+      Spacebar: 676250766267581333
+      axe: -889372929520013586
+      backpack: -4727152265074838238
+      beartrap_closed: 7813506556951106354
+      beartrap_displayed: -7704574362260087525
+      beartrap_open: 5581773966291736342
+      bowlingball: 8331088448985437184
+      bullet: 4100847725929655446
+      clockbg: -7051652948092538662
+      empty_item: -8437384966788738912
+      gun: 6181949157113167808
+      key: 4175065310831592861
+      locked: -6996205736383764033
+      plunger: -6128468090401984811
+      selector: -1935226080116935734
+      spacetouse: 3694094099739252491
+      unlocked: 2941522307349431816
+      wasd: 5293872798614382699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

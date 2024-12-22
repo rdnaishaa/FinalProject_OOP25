@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "houseClone.sln"
+    "dotnet.defaultSolution": "FINRPO_OOP25.sln"
 }
